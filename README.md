@@ -2,6 +2,8 @@
 
 This is the repository for the following paper: MTSE U-Net: An architecture for segmentation and prediction of fetal brain and gestational age from MRI of brain
 
+Cite our paper : Gangopadhyay, T., Halder, S., Dasgupta, P. et al. MTSE U-Net: an architecture for segmentation, and prediction of fetal brain and gestational age from MRI of brain. Netw Model Anal Health Inform Bioinforma 11, 50 (2022). https://doi.org/10.1007/s13721-022-00394-y
+
 This paper is for performing three tasks:
 - Segmenting the fetal brain into its seven major components: Intracranial space and extra-axial CSF spaces, Gray matter, White matter, Ventricles, Cerebellum, Deep gray matter and the Brainstem and spinal cord.
 - Predicting the type of the fetal brain from the image ('Pathological' or 'Neurotypical').
